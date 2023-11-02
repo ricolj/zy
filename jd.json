@@ -31,7 +31,7 @@
 			"searchable": 1,
 			"changeable": 0,
 			"ext": "http://52bsj.vip:81/api/v3/file/get/172221/alist00.json?sign=RJCRYyQczmcjPdo5pasva1FldUFuyT7PcYvMPFx4Aq0%3D%3A0",
-			"jar": "http://52bsj.vip:81/api/v3/file/get/172483/custom_spider.jar?sign=Zx46aF0MKU8XM1bJvM4jDvzrhQhEekumt0tFl7OSGC8%3D%3A0"
+			"jar": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;8aa91b90065d8517ba322655bdd2127b"
 		},
 		{
 			"key": "4K电影网",
@@ -60,8 +60,34 @@
 			"changeable": 0,
 			"ext": "http://52bsj.vip:81/api/v3/file/get/172824/alist.txt?sign=c4gNCSX7Ufwx8QrWN4pwW7d4t0nPGIATNe86dvwy2aQ%3D%3A0http://tvfan.xxooo.cf/"
 		},
-
-
+		{
+			"key": "drpy_js_奇珍异兽",
+			"name": "奇艺官源┃集简影视",
+			"type": 3,
+			"api": "http://52bsj.vip:81/api/v3/file/get/172292/drpy2.min.js?sign=ZbJnOKbDGueFQZP8jtNwkKe3MExEUQcceXL0AQoHV9s%3D%3A0",
+			"ext": "http://52bsj.vip:81/api/v3/file/get/172294/%E5%A5%87%E7%8F%8D%E5%BC%82%E5%85%BD.js?sign=edYO9rPHIJHq8WGp1AUQod0ToPH-rL0Zj1MpIdOjbvA%3D%3A0"
+		},
+		{
+			"key": "drpy_js_优酷",
+			"name": "优酷官源┃集简影视",
+			"type": 3,
+			"api": "http://52bsj.vip:81/api/v3/file/get/172292/drpy2.min.js?sign=ZbJnOKbDGueFQZP8jtNwkKe3MExEUQcceXL0AQoHV9s%3D%3A0",
+			"ext": "http://52bsj.vip:81/api/v3/file/get/172296/%E4%BC%98%E9%85%B7.js?sign=b8mI1yok0VaRB6k_qcnQOrREMkNgTrd535t2AM4kLuk%3D%3A0"
+		},
+		{
+			"key": "drpy_js_腾云驾雾",
+			"name": "腾讯官源┃集简影视",
+			"type": 3,
+			"api": "http://52bsj.vip:81/api/v3/file/get/172292/drpy2.min.js?sign=ZbJnOKbDGueFQZP8jtNwkKe3MExEUQcceXL0AQoHV9s%3D%3A0",
+			"ext": "http://52bsj.vip:81/api/v3/file/get/172293/%E8%85%BE%E4%BA%91%E9%A9%BE%E9%9B%BE.js?sign=hLQU2d4NWSk2vUznrPKOXNF_A6se7nG_mFGCpzl-HO8%3D%3A0"
+		},
+		{
+			"key": "drpy_js_百忙无果",
+			"name": "芒果官源┃集简影视",
+			"type": 3,
+			"api": "http://52bsj.vip:81/api/v3/file/get/172292/drpy2.min.js?sign=ZbJnOKbDGueFQZP8jtNwkKe3MExEUQcceXL0AQoHV9s%3D%3A0",
+			"ext": "http://52bsj.vip:81/api/v3/file/get/172295/%E7%99%BE%E5%BF%99%E6%97%A0%E6%9E%9C.js?sign=ek409LVXTpVFnE4-qz56ExJIelDJuUrI3vFEoKSrEzM%3D%3A0"
+		},
 		{
 			"key": "巨蟹",
 			"name": "巨蟹影视┃集简影视",
@@ -95,7 +121,8 @@
 				"欧美动漫",
 				"倫理片"
 			]
-		}, {
+		},
+		{
 			"key": "狮子",
 			"name": "狮子影视┃集简影视",
 			"type": 1,
@@ -128,7 +155,8 @@
 				"欧美动漫",
 				"倫理片"
 			]
-		}, {
+		}, 
+		{
 			"key": "天蝎",
 			"name": "天蝎影视┃集简影视",
 			"type": 1,
@@ -161,7 +189,8 @@
 				"欧美动漫",
 				"倫理片"
 			]
-		}, {
+		},
+		{
 			"key": "天秤",
 			"name": "天秤影视┃集简影视",
 			"type": 1,
@@ -194,7 +223,8 @@
 				"欧美动漫",
 				"倫理片"
 			]
-		}, {
+		},
+		{
 			"key": "996",
 			"name": "996┃集简影视",
 			"type": 1,
@@ -202,34 +232,6 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0
-		},
-		{
-			"key": "drpy_js_奇珍异兽",
-			"name": "奇艺官源┃集简影视",
-			"type": 3,
-			"api": "http://52bsj.vip:81/api/v3/file/get/172292/drpy2.min.js?sign=ZbJnOKbDGueFQZP8jtNwkKe3MExEUQcceXL0AQoHV9s%3D%3A0",
-			"ext": "http://52bsj.vip:81/api/v3/file/get/172294/%E5%A5%87%E7%8F%8D%E5%BC%82%E5%85%BD.js?sign=edYO9rPHIJHq8WGp1AUQod0ToPH-rL0Zj1MpIdOjbvA%3D%3A0"
-		},
-		{
-			"key": "drpy_js_优酷",
-			"name": "优酷官源┃集简影视",
-			"type": 3,
-			"api": "http://52bsj.vip:81/api/v3/file/get/172292/drpy2.min.js?sign=ZbJnOKbDGueFQZP8jtNwkKe3MExEUQcceXL0AQoHV9s%3D%3A0",
-			"ext": "http://52bsj.vip:81/api/v3/file/get/172296/%E4%BC%98%E9%85%B7.js?sign=b8mI1yok0VaRB6k_qcnQOrREMkNgTrd535t2AM4kLuk%3D%3A0"
-		},
-		{
-			"key": "drpy_js_腾云驾雾",
-			"name": "腾讯官源┃集简影视",
-			"type": 3,
-			"api": "http://52bsj.vip:81/api/v3/file/get/172292/drpy2.min.js?sign=ZbJnOKbDGueFQZP8jtNwkKe3MExEUQcceXL0AQoHV9s%3D%3A0",
-			"ext": "http://52bsj.vip:81/api/v3/file/get/172293/%E8%85%BE%E4%BA%91%E9%A9%BE%E9%9B%BE.js?sign=hLQU2d4NWSk2vUznrPKOXNF_A6se7nG_mFGCpzl-HO8%3D%3A0"
-		},
-		{
-			"key": "drpy_js_百忙无果",
-			"name": "芒果官源┃集简影视",
-			"type": 3,
-			"api": "http://52bsj.vip:81/api/v3/file/get/172292/drpy2.min.js?sign=ZbJnOKbDGueFQZP8jtNwkKe3MExEUQcceXL0AQoHV9s%3D%3A0",
-			"ext": "http://52bsj.vip:81/api/v3/file/get/172295/%E7%99%BE%E5%BF%99%E6%97%A0%E6%9E%9C.js?sign=ek409LVXTpVFnE4-qz56ExJIelDJuUrI3vFEoKSrEzM%3D%3A0"
 		},
 		{
 			"key": "XBPQ_ldys",
@@ -408,7 +410,6 @@
 			"searchable": 1,
 			"quickSearch": 1
 		},
-
 		{
 			"key": "主力源",
 			"name": "索尼影视┃集简影视",
