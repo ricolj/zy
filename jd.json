@@ -23,7 +23,7 @@
 			"filterable": 0,
 			"ext": "http://52bsj.vip:81/api/v3/file/get/172220/zb.json?sign=btSBkV_AfYFB_lDkByYOmgoTwzBmka05Py6ZmRRwxNg%3D%3A0"
 		},
-	{
+		{
 			"key": "AList",
 			"name": "AList网盘┃集简影视",
 			"type": 3,
@@ -33,7 +33,23 @@
 			"ext": "http://52bsj.vip:81/api/v3/file/get/172221/alist00.json?sign=RJCRYyQczmcjPdo5pasva1FldUFuyT7PcYvMPFx4Aq0%3D%3A0",
 			"jar": "http://52bsj.vip:81/api/v3/file/get/172483/custom_spider.jar?sign=Zx46aF0MKU8XM1bJvM4jDvzrhQhEekumt0tFl7OSGC8%3D%3A0"
 		},
-	{"key":"4K电影网","name":"4K影网┃集简影视","type": 3,"api":"csp_XBPQ","ext":{"数组":"class=\"module-item-pic\"&&</span><span>","副标题":"<span>&&</span>","线路数组":"data-dropdown-value=&&</div","线路标题":"传说接口","播放数组":"class=\"module-blocklist\"&&</div>","搜索数组":"div class=&&</div","搜索url":"http://4kdyw.qsclub.cn/vodsearch/-------------.html?wd={wd}","分类url":"http://4kdyw.qsclub.cn/vodshow/{cateId}-{area}--{class}-{lang}----{catePg}---{year}.html","分类":"电视剧$2#电影$1#综艺$3#动漫$4#体育$58"}},
+		{
+			"key": "4K电影网",
+			"name": "4K影网┃集简影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"ext": {
+				"数组": "class=\"module-item-pic\"&&</span><span>",
+				"副标题": "<span>&&</span>",
+				"线路数组": "data-dropdown-value=&&</div",
+				"线路标题": "传说接口",
+				"播放数组": "class=\"module-blocklist\"&&</div>",
+				"搜索数组": "div class=&&</div",
+				"搜索url": "http://4kdyw.qsclub.cn/vodsearch/-------------.html?wd={wd}",
+				"分类url": "http://4kdyw.qsclub.cn/vodshow/{cateId}-{area}--{class}-{lang}----{catePg}---{year}.html",
+				"分类": "电视剧$2#电影$1#综艺$3#动漫$4#体育$58"
+			}
+		},
 		{
 			"key": "csp_WoGG",
 			"name": "玩偶哥哥┃集简影视",
@@ -46,147 +62,147 @@
 		},
 
 
-	{
-	"key": "巨蟹",
-	"name": "巨蟹影视┃集简影视",
-	"type": 1,
-	"api": "https://www.1858.org/api.php/provide/vod/",
-	"searchable": 1,
-	"quickSearch": 1,
-	"filterable": 1,
-	"categories": [
-		"动作片",
-		"喜剧片",
-		"爱情片",
-		"科幻片",
-		"恐怖片",
-		"剧情片",
-		"战争片",
-		"记录片",
-		"国产剧",
-		"欧美剧",
-		"日本剧",
-		"泰国剧",
-		"韩国剧",
-		"台湾剧",
-		"香港剧",
-		"大陆综艺",
-		"港台综艺",
-		"日韩综艺",
-		"欧美综艺",
-		"国产动漫",
-		"日韩动漫",
-		"欧美动漫",
-		"倫理片"
-	]
-}, {
-	"key": "狮子",
-	"name": "狮子影视┃集简影视",
-	"type": 1,
-	"api": "https://www.vuituoi.com/api.php/provide/vod/",
-	"searchable": 1,
-	"quickSearch": 1,
-	"filterable": 1,
-	"categories": [
-		"动作片",
-		"喜剧片",
-		"爱情片",
-		"科幻片",
-		"恐怖片",
-		"剧情片",
-		"战争片",
-		"记录片",
-		"国产剧",
-		"欧美剧",
-		"日本剧",
-		"泰国剧",
-		"韩国剧",
-		"台湾剧",
-		"香港剧",
-		"大陆综艺",
-		"港台综艺",
-		"日韩综艺",
-		"欧美综艺",
-		"国产动漫",
-		"日韩动漫",
-		"欧美动漫",
-		"倫理片"
-	]
-}, {
-	"key": "天蝎",
-	"name": "天蝎影视┃集简影视",
-	"type": 1,
-	"api": "https://www.163kt.com/api.php/provide/vod/",
-	"searchable": 1,
-	"quickSearch": 1,
-	"filterable": 1,
-	"categories": [
-		"动作片",
-		"喜剧片",
-		"爱情片",
-		"科幻片",
-		"恐怖片",
-		"剧情片",
-		"战争片",
-		"记录片",
-		"国产剧",
-		"欧美剧",
-		"日本剧",
-		"泰国剧",
-		"韩国剧",
-		"台湾剧",
-		"香港剧",
-		"大陆综艺",
-		"港台综艺",
-		"日韩综艺",
-		"欧美综艺",
-		"国产动漫",
-		"日韩动漫",
-		"欧美动漫",
-		"倫理片"
-	]
-}, {
-	"key": "天秤",
-	"name": "天秤影视┃集简影视",
-	"type": 1,
-	"api": "https://www.shuangcenmaoyi.com/api.php/provide/vod/",
-	"searchable": 1,
-	"quickSearch": 1,
-	"filterable": 1,
-	"categories": [
-		"动作片",
-		"喜剧片",
-		"爱情片",
-		"科幻片",
-		"恐怖片",
-		"剧情片",
-		"战争片",
-		"记录片",
-		"国产剧",
-		"欧美剧",
-		"日本剧",
-		"泰国剧",
-		"韩国剧",
-		"台湾剧",
-		"香港剧",
-		"大陆综艺",
-		"港台综艺",
-		"日韩综艺",
-		"欧美综艺",
-		"国产动漫",
-		"日韩动漫",
-		"欧美动漫",
-		"倫理片"
-	]
-}, {
-	"key": "996",
-	"name": "996┃集简影视",
-	"type": 1,
-	"api": "https://www.cs1369.com/api.php/provide/vod/",
-	"searchable": 1,
-	"quickSearch": 1,
-	"filterable": 0
-},
+		{
+			"key": "巨蟹",
+			"name": "巨蟹影视┃集简影视",
+			"type": 1,
+			"api": "https://www.1858.org/api.php/provide/vod/",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"categories": [
+				"动作片",
+				"喜剧片",
+				"爱情片",
+				"科幻片",
+				"恐怖片",
+				"剧情片",
+				"战争片",
+				"记录片",
+				"国产剧",
+				"欧美剧",
+				"日本剧",
+				"泰国剧",
+				"韩国剧",
+				"台湾剧",
+				"香港剧",
+				"大陆综艺",
+				"港台综艺",
+				"日韩综艺",
+				"欧美综艺",
+				"国产动漫",
+				"日韩动漫",
+				"欧美动漫",
+				"倫理片"
+			]
+		}, {
+			"key": "狮子",
+			"name": "狮子影视┃集简影视",
+			"type": 1,
+			"api": "https://www.vuituoi.com/api.php/provide/vod/",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"categories": [
+				"动作片",
+				"喜剧片",
+				"爱情片",
+				"科幻片",
+				"恐怖片",
+				"剧情片",
+				"战争片",
+				"记录片",
+				"国产剧",
+				"欧美剧",
+				"日本剧",
+				"泰国剧",
+				"韩国剧",
+				"台湾剧",
+				"香港剧",
+				"大陆综艺",
+				"港台综艺",
+				"日韩综艺",
+				"欧美综艺",
+				"国产动漫",
+				"日韩动漫",
+				"欧美动漫",
+				"倫理片"
+			]
+		}, {
+			"key": "天蝎",
+			"name": "天蝎影视┃集简影视",
+			"type": 1,
+			"api": "https://www.163kt.com/api.php/provide/vod/",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"categories": [
+				"动作片",
+				"喜剧片",
+				"爱情片",
+				"科幻片",
+				"恐怖片",
+				"剧情片",
+				"战争片",
+				"记录片",
+				"国产剧",
+				"欧美剧",
+				"日本剧",
+				"泰国剧",
+				"韩国剧",
+				"台湾剧",
+				"香港剧",
+				"大陆综艺",
+				"港台综艺",
+				"日韩综艺",
+				"欧美综艺",
+				"国产动漫",
+				"日韩动漫",
+				"欧美动漫",
+				"倫理片"
+			]
+		}, {
+			"key": "天秤",
+			"name": "天秤影视┃集简影视",
+			"type": 1,
+			"api": "https://www.shuangcenmaoyi.com/api.php/provide/vod/",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"categories": [
+				"动作片",
+				"喜剧片",
+				"爱情片",
+				"科幻片",
+				"恐怖片",
+				"剧情片",
+				"战争片",
+				"记录片",
+				"国产剧",
+				"欧美剧",
+				"日本剧",
+				"泰国剧",
+				"韩国剧",
+				"台湾剧",
+				"香港剧",
+				"大陆综艺",
+				"港台综艺",
+				"日韩综艺",
+				"欧美综艺",
+				"国产动漫",
+				"日韩动漫",
+				"欧美动漫",
+				"倫理片"
+			]
+		}, {
+			"key": "996",
+			"name": "996┃集简影视",
+			"type": 1,
+			"api": "https://www.cs1369.com/api.php/provide/vod/",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0
+		},
 		{
 			"key": "drpy_js_奇珍异兽",
 			"name": "奇艺官源┃集简影视",
@@ -215,7 +231,19 @@
 			"api": "http://52bsj.vip:81/api/v3/file/get/172292/drpy2.min.js?sign=ZbJnOKbDGueFQZP8jtNwkKe3MExEUQcceXL0AQoHV9s%3D%3A0",
 			"ext": "http://52bsj.vip:81/api/v3/file/get/172295/%E7%99%BE%E5%BF%99%E6%97%A0%E6%9E%9C.js?sign=ek409LVXTpVFnE4-qz56ExJIelDJuUrI3vFEoKSrEzM%3D%3A0"
 		},
-		{"key":"XBPQ_ldys","name":"雷达影视┃集简影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://www.dianyingleida.com/index.php/vod/type/id/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html","分类":"今日更新$30#短剧$36#电影$1#电视剧$2#综艺$3#动漫$4#动画$34"}},
+		{
+			"key": "XBPQ_ldys",
+			"name": "雷达影视┃集简影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": {
+				"分类url": "https://www.dianyingleida.com/index.php/vod/type/id/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html",
+				"分类": "今日更新$30#短剧$36#电影$1#电视剧$2#综艺$3#动漫$4#动画$34"
+			}
+		},
 		{
 			"key": "yqkan_open",
 			"name": "短剧短剧┃集简影视",
@@ -322,24 +350,24 @@
 			},
 			"jar": "http://52bsj.vip:81/api/v3/file/get/172288/xbpq.jar?sign=gnal0myO4925M0Gnu7Gz6WeO4-Mojd4lDuX1gQo9kAQ%3D%3A0"
 		},
-		
-        {
-            "key": "艾艾",
-            "name": "艾艾App┃集简影视",
-            "type": 3,
-            "jar": "https://pan.shangui.cc/f/2wboix/ab2.jar",
-            "api": "csp_Appto",
-            "playerType": 2,
-            "ext": "hcAuLY8Gg7Eb0oRkB84jw+9rQLeiFinDuZH5RMmF6KKO8irmlYhtPQnzRpQe4LPY98R+w/5FmQ0qHpjZJi2IO6Jhj3g50wP9mK/hGAw0EyahT8kphU0Uq+3kgSSMo7xszUGN9EwRotCqpXDfs2g4Cb/mdPhy8Q3I+QIck7eFAPLquyGgZS9WsK/GEwH5WbMKWMQxEhakYUrj0NV1WwSeHOVAuhsgn+Pewj71uD4AOk2UzeTmLbhwvqrRo5zcYCdCzh+e3pUpbuAtK/zaxi7r64ASfqb64bP8TPizK03pSz4b5ksSfBXaFY9HgVOl1ybO7EZS5fttTHxgPNslV+JC3Xhci41Dw8TnXR4ou92WZsj+X9bJAJlDOmLERN0e8hael2DuBA1AR1HaYpSbxPioonGsbr3SheAKfra/RvtjVXciKokPaWRxCNPSlZF8+wKsr9UG4IC35I07Xf5VHfdr9fOH1cCxi+JIS6tZDWg3B858ae1tm24USJsLnHhx2gG/j0X+h0Z4uCCA/uFPqJNZZJ56EqiyG3ZHfdDr0hwKbPTXi1IYSzLz/sYovi1dubRG+ht7C4yaYaZgjllWpkM2i8sG9vvpzF0YXuPrCDEg0B2x+KFpgnMZ2sfY864BRWI5z7JMt4rZhiE2la+PJ3Bw5e+C5/o8UJ4iR0CsirL03EFU="
-        },
+
+		{
+			"key": "艾艾",
+			"name": "艾艾App┃集简影视",
+			"type": 3,
+			"jar": "https://pan.shangui.cc/f/2wboix/ab2.jar",
+			"api": "csp_Appto",
+			"playerType": 2,
+			"ext": "hcAuLY8Gg7Eb0oRkB84jw+9rQLeiFinDuZH5RMmF6KKO8irmlYhtPQnzRpQe4LPY98R+w/5FmQ0qHpjZJi2IO6Jhj3g50wP9mK/hGAw0EyahT8kphU0Uq+3kgSSMo7xszUGN9EwRotCqpXDfs2g4Cb/mdPhy8Q3I+QIck7eFAPLquyGgZS9WsK/GEwH5WbMKWMQxEhakYUrj0NV1WwSeHOVAuhsgn+Pewj71uD4AOk2UzeTmLbhwvqrRo5zcYCdCzh+e3pUpbuAtK/zaxi7r64ASfqb64bP8TPizK03pSz4b5ksSfBXaFY9HgVOl1ybO7EZS5fttTHxgPNslV+JC3Xhci41Dw8TnXR4ou92WZsj+X9bJAJlDOmLERN0e8hael2DuBA1AR1HaYpSbxPioonGsbr3SheAKfra/RvtjVXciKokPaWRxCNPSlZF8+wKsr9UG4IC35I07Xf5VHfdr9fOH1cCxi+JIS6tZDWg3B858ae1tm24USJsLnHhx2gG/j0X+h0Z4uCCA/uFPqJNZZJ56EqiyG3ZHfdDr0hwKbPTXi1IYSzLz/sYovi1dubRG+ht7C4yaYaZgjllWpkM2i8sG9vvpzF0YXuPrCDEg0B2x+KFpgnMZ2sfY864BRWI5z7JMt4rZhiE2la+PJ3Bw5e+C5/o8UJ4iR0CsirL03EFU="
+		},
 		{
 			"key": "jar_简影JOJO",
-			"name": "简影JOJO┃集简影视", 
+			"name": "简影JOJO┃集简影视",
 			"type": 3,
-			"api": "csp_JOJO", 
-            "jar":"https://pan.shangui.cc/f/X2lPsd/custom_spider_stable.jar",
-            "searchable": 1, 
-			"quickSearch": 1, 
+			"api": "csp_JOJO",
+			"jar": "https://pan.shangui.cc/f/X2lPsd/custom_spider_stable.jar",
+			"searchable": 1,
+			"quickSearch": 1,
 			"changeable": 1
 		},
 		{
@@ -380,7 +408,7 @@
 			"searchable": 1,
 			"quickSearch": 1
 		},
-		
+
 		{
 			"key": "主力源",
 			"name": "索尼影视┃集简影视",
@@ -813,7 +841,7 @@
 			"searchable": 1,
 			"quickSearch": 1
 		},
-	
+
 		{
 			"key": "csp_XBPQ_APP影院",
 			"name": "APP影院+┃集简影视",
@@ -873,7 +901,7 @@
 			},
 			"jar": "http://52bsj.vip:81/api/v3/file/get/172262/Yoursmile.jar?sign=7EK0Qg_9t570_2wCmNJuCJGCcEY6NBKJ8iKOvS66e-g%3D%3A0"
 		},
-		
+
 		{
 			"key": "橘猫资源",
 			"name": "橘猫资源┃集简影视",
@@ -1655,7 +1683,7 @@
 			"type": 3,
 			"url": "Web"
 		},
-		
+
 		{
 			"name": "播放不了后面手动点击试试吧",
 			"type": 0,
