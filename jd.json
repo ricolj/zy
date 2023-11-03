@@ -767,7 +767,6 @@
 			"searchable": 1,
 			"quickSearch": 1
 		},
-
 		{
 			"key": "csp_XBPQ_APP影院",
 			"name": "APP影院+┃集简影视",
@@ -954,7 +953,8 @@
 			"filterable": 1,
 			"quickSearch": 1,
 			"searchable": 1,
-			"ext": "https://api-aws.11ty.top"
+			"ext": "https://api-aws.11ty.top",
+			"jar": "https://download.kstore.space/download/5011/jar/fix0907.jar"
 		},
 		{
 			"key": "人人影视",
@@ -1236,7 +1236,7 @@
 			"type": 3,
 			"api": "csp_AppYsV2",
 			"ext": "http://one3.emofun.top/mogai_api.php/v1.vod",
-			"jar": "http://52bsj.vip:81/api/v3/file/get/172267/fix0907.jar?sign=FurLaVBwJp6on-awnLeBynM0NWhLoVbwP-BtHdkEokI%3D%3A0"
+			"jar": "https://download.kstore.space/download/5011/jar/fix0907.jar"
 		},
 		{
 			"key": "看看视频",
@@ -1246,17 +1246,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"jar": "http://52bsj.vip:81/api/v3/file/get/172267/fix0907.jar?sign=FurLaVBwJp6on-awnLeBynM0NWhLoVbwP-BtHdkEokI%3D%3A0"
-		},
-		{
-			"key": "csp_CandyMuj_yzzy",
-			"name": "优质电影┃集简影视",
-			"type": 3,
-			"api": "csp_CandyMuj_yzzy",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 1,
-			"jar": "http://52bsj.vip:81/api/v3/file/get/172270/candymuj.jar?sign=pCzc14arjscOLsvsdJnfWU9i7yqx0mv7oZvSSeDbTZ8%3D%3A0"
+			"jar": "https://download.kstore.space/download/5011/jar/fix0907.jar"
 		},
 		{
 			"key": "csp_xml_量子资源",
@@ -1334,18 +1324,6 @@
 			]
 		},
 		{
-			"key": "csp_CandyMuj_lm5",
-			"name": "星辰影院┃集简影视",
-			"type": 3,
-			"api": "csp_CandyMuj_lm5",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"jar": "http://52bsj.vip:81/api/v3/file/get/172270/candymuj.jar?sign=pCzc14arjscOLsvsdJnfWU9i7yqx0mv7oZvSSeDbTZ8%3D%3A0"
-		},
-
-
-		{
 			"key": "csp_xml_享看",
 			"name": "享看电影┃集简影视",
 			"type": 1,
@@ -1373,7 +1351,7 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "",
-			"jar": "http://52bsj.vip:81/api/v3/file/get/172267/fix0907.jar?sign=FurLaVBwJp6on-awnLeBynM0NWhLoVbwP-BtHdkEokI%3D%3A0"
+			"jar": "https://download.kstore.space/download/5011/jar/fix0907.jar"
 		},
 		{
 			"key": "csp_CandyMuj_qiqiyy",
@@ -1383,8 +1361,18 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"jar": "http://52bsj.vip:81/api/v3/file/get/172270/candymuj.jar?sign=pCzc14arjscOLsvsdJnfWU9i7yqx0mv7oZvSSeDbTZ8%3D%3A0",
+			"jar": "https://download.kstore.space/download/5011/jar/candymuj.jar",
 			"ext": "http://www.aiqiqi.cc/"
+		},
+		{
+			"key": "csp_CandyMuj_yzzy",
+			"name": "优质电影┃集简影视",
+			"type": 3,
+			"api": "csp_CandyMuj_yzzy",
+			"searchable": 0,
+			"quickSearch": 0,
+			"filterable": 1,
+			"jar": "https://download.kstore.space/download/5011/jar/candymuj.jar"
 		},
 		{
 			"key": "csp_CandyMuj_cokemv",
@@ -1394,8 +1382,18 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"jar": "http://52bsj.vip:81/api/v3/file/get/172270/candymuj.jar?sign=pCzc14arjscOLsvsdJnfWU9i7yqx0mv7oZvSSeDbTZ8%3D%3A0",
+			"jar": "https://download.kstore.space/download/5011/jar/candymuj.jar",
 			"ext": "http://cokemv.co/"
+		},
+				{
+			"key": "csp_CandyMuj_lm5",
+			"name": "星辰影院┃集简影视",
+			"type": 3,
+			"api": "csp_CandyMuj_lm5",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"jar": "https://download.kstore.space/download/5011/jar/candymuj.jar"
 		},
 		{
 			"key": "csp_CandyMuj_freeok",
@@ -1405,7 +1403,7 @@
 			"searchable": 1,
 			"quickSearch": 0,
 			"filterable": 1,
-			"jar": "http://52bsj.vip:81/api/v3/file/get/172270/candymuj.jar?sign=pCzc14arjscOLsvsdJnfWU9i7yqx0mv7oZvSSeDbTZ8%3D%3A0"
+			"jar": "https://download.kstore.space/download/5011/jar/candymuj.jar"
 		},
 		{
 			"key": "csp_CandyMuj_taoju",
@@ -1415,7 +1413,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"jar": "http://52bsj.vip:81/api/v3/file/get/172270/candymuj.jar?sign=pCzc14arjscOLsvsdJnfWU9i7yqx0mv7oZvSSeDbTZ8%3D%3A0",
+			"jar": "https://download.kstore.space/download/5011/jar/candymuj.jar",
 			"ext": "http://www.taojuyy.com"
 		},
 		{
@@ -1482,7 +1480,7 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "",
-			"jar": "http://52bsj.vip:81/api/v3/file/get/172271/alibaba.jar?sign=DBpqp84eTVnibWlhcWCt-aqdZUFJztbp_HqA1YN_lj4%3D%3A0"
+			"ext": "./txt/token.txt+4k|auto|fhd"
 		},
 		{
 			"key": "UP云搜",
@@ -1492,7 +1490,7 @@
 			"searchable": 1,
 			"quickSearch": 0,
 			"filterable": 0,
-			"jar": "http://52bsj.vip:81/api/v3/file/get/172271/alibaba.jar?sign=DBpqp84eTVnibWlhcWCt-aqdZUFJztbp_HqA1YN_lj4%3D%3A0"
+			"ext": "./txt/token.txt+4k|auto|fhd"
 		},
 		{
 			"key": "纸条",
@@ -1502,7 +1500,7 @@
 			"searchable": 1,
 			"quickSearch": 0,
 			"filterable": 0,
-			"jar": "http://52bsj.vip:81/api/v3/file/get/172271/alibaba.jar?sign=DBpqp84eTVnibWlhcWCt-aqdZUFJztbp_HqA1YN_lj4%3D%3A0"
+			"ext": "./txt/token.txt+4k|auto|fhd"
 		},
 		{
 			"key": "易搜",
@@ -1512,7 +1510,7 @@
 			"searchable": 1,
 			"quickSearch": 0,
 			"filterable": 0,
-			"jar": "http://52bsj.vip:81/api/v3/file/get/172271/alibaba.jar?sign=DBpqp84eTVnibWlhcWCt-aqdZUFJztbp_HqA1YN_lj4%3D%3A0"
+			"ext": "./txt/token.txt+4k|auto|fhd"
 		},
 		{
 			"key": "阿里云盘",
@@ -1522,7 +1520,7 @@
 			"searchable": 1,
 			"quickSearch": 0,
 			"filterable": 0,
-			"jar": "http://52bsj.vip:81/api/v3/file/get/172271/alibaba.jar?sign=DBpqp84eTVnibWlhcWCt-aqdZUFJztbp_HqA1YN_lj4%3D%3A0"
+			"ext": "./txt/token.txt+4k|auto|fhd"
 		},
 		{
 			"key": "盘搜",
@@ -1532,7 +1530,7 @@
 			"searchable": 1,
 			"quickSearch": 0,
 			"filterable": 0,
-			"jar": "http://52bsj.vip:81/api/v3/file/get/172271/alibaba.jar?sign=DBpqp84eTVnibWlhcWCt-aqdZUFJztbp_HqA1YN_lj4%3D%3A0"
+			"ext": "./txt/token.txt+4k|auto|fhd"
 		},
 		{
 			"key": "找资源",
@@ -1542,8 +1540,7 @@
 			"searchable": 1,
 			"quickSearch": 0,
 			"filterable": 0,
-			"ext": "null$$$yunshuche$$$11223344",
-			"jar": "http://52bsj.vip:81/api/v3/file/get/172271/alibaba.jar?sign=DBpqp84eTVnibWlhcWCt-aqdZUFJztbp_HqA1YN_lj4%3D%3A0"
+			"ext": "./txt/token.txt+4k|auto|fhd$$$fanfan$$$qqq111"auto|fhd"
 		},
 		{
 			"key": "网盘搜索",
@@ -1553,7 +1550,7 @@
 			"searchable": 1,
 			"quickSearch": 0,
 			"filterable": 0,
-			"jar": "http://52bsj.vip:81/api/v3/file/get/172271/alibaba.jar?sign=DBpqp84eTVnibWlhcWCt-aqdZUFJztbp_HqA1YN_lj4%3D%3A0"
+			"ext": "./txt/token.txt+4k|auto|fhd"
 		},
 		{
 			"key": "push_agent",
@@ -1562,8 +1559,7 @@
 			"api": "csp_Push",
 			"searchable": 0,
 			"quickSearch": 0,
-			"filterable": 0,
-			"jar": "http://52bsj.vip:81/api/v3/file/get/172271/alibaba.jar?sign=DBpqp84eTVnibWlhcWCt-aqdZUFJztbp_HqA1YN_lj4%3D%3A0"
+			"filterable": 0
 		}
 	],
 	"lives": [{
