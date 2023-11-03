@@ -279,15 +279,6 @@
 			]
 		},
 		{
-			"key": "996",
-			"name": "996┃集简影视",
-			"type": 1,
-			"api": "https://www.cs1369.com/api.php/provide/vod/",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0
-		},
-		{
 			"key": "XBPQ_ldys",
 			"name": "雷达影视┃集简影视",
 			"type": 3,
