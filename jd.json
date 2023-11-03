@@ -64,29 +64,29 @@
 			"key": "drpy_js_奇珍异兽",
 			"name": "奇艺官源┃集简影视",
 			"type": 3,
-			"api": "http://52bsj.vip:81/api/v3/file/get/172292/drpy2.min.js?sign=ZbJnOKbDGueFQZP8jtNwkKe3MExEUQcceXL0AQoHV9s%3D%3A0",
-			"ext": "http://52bsj.vip:81/api/v3/file/get/172294/%E5%A5%87%E7%8F%8D%E5%BC%82%E5%85%BD.js?sign=edYO9rPHIJHq8WGp1AUQod0ToPH-rL0Zj1MpIdOjbvA%3D%3A0"
+			"api": "./js/drpy2.min.js",
+			"ext": "./js/奇珍异兽.js"
 		},
 		{
 			"key": "drpy_js_优酷",
 			"name": "优酷官源┃集简影视",
 			"type": 3,
-			"api": "http://52bsj.vip:81/api/v3/file/get/172292/drpy2.min.js?sign=ZbJnOKbDGueFQZP8jtNwkKe3MExEUQcceXL0AQoHV9s%3D%3A0",
-			"ext": "http://52bsj.vip:81/api/v3/file/get/172296/%E4%BC%98%E9%85%B7.js?sign=b8mI1yok0VaRB6k_qcnQOrREMkNgTrd535t2AM4kLuk%3D%3A0"
+			"api": "./js/drpy2.min.js",
+			"ext": "./js/优酷.js"
 		},
 		{
 			"key": "drpy_js_腾云驾雾",
 			"name": "腾讯官源┃集简影视",
 			"type": 3,
-			"api": "http://52bsj.vip:81/api/v3/file/get/172292/drpy2.min.js?sign=ZbJnOKbDGueFQZP8jtNwkKe3MExEUQcceXL0AQoHV9s%3D%3A0",
-			"ext": "http://52bsj.vip:81/api/v3/file/get/172293/%E8%85%BE%E4%BA%91%E9%A9%BE%E9%9B%BE.js?sign=hLQU2d4NWSk2vUznrPKOXNF_A6se7nG_mFGCpzl-HO8%3D%3A0"
+			"api": "./js/drpy2.min.js",
+			"ext": "./js/腾云驾雾.js"
 		},
 		{
 			"key": "drpy_js_百忙无果",
 			"name": "芒果官源┃集简影视",
 			"type": 3,
-			"api": "http://52bsj.vip:81/api/v3/file/get/172292/drpy2.min.js?sign=ZbJnOKbDGueFQZP8jtNwkKe3MExEUQcceXL0AQoHV9s%3D%3A0",
-			"ext": "http://52bsj.vip:81/api/v3/file/get/172295/%E7%99%BE%E5%BF%99%E6%97%A0%E6%9E%9C.js?sign=ek409LVXTpVFnE4-qz56ExJIelDJuUrI3vFEoKSrEzM%3D%3A0"
+			"api": "./js/drpy2.min.js",
+			"ext": "./lib/百忙无果.js"
 		},
 		{
 			"key": "巨蟹",
