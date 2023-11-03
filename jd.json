@@ -50,7 +50,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 0,
-			"ext": "./txt/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"}
+			"ext": "./txt/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
 		},
 		{
 			"key": "姐姐",
@@ -60,8 +60,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "http://dytt996.com/api.php/app/",
-			"jar": "http://52bsj.vip:81/api/v3/file/get/172263/fan.txt?sign=6azbxVFU3JjWC3mSw_OUowtOC7dIHTeZ_ZcvvfovztI%3D%3A0"
+			"ext": "http://dytt996.com/api.php/app/",	
 		},
 		{
 			"key": "小姨",
